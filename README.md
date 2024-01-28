@@ -2,7 +2,8 @@
 
 Live Demo: [Here](https://ankitmeena007.github.io/rain)
 
-![image](https://github.com/ankitmeena007/rain/assets/63893740/dae6867a-5489-46e2-bd0b-b98a74cdb4df)
+![image](https://github.com/ankitmeena007/rain/assets/63893740/69ca8e4f-bc55-4c6b-af71-ab5b35865338)
+
 
 
 forked from: [@SardineFish](https://github.com/SardineFish/raindrop-fx/tree/master)
