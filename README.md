@@ -6,10 +6,10 @@ Live Demo: [Here](https://ankitmeena007.github.io/rain)
 
 
 
-forked from: [@SardineFish](https://github.com/SardineFish/raindrop-fx/tree/master)
+Forked from: [@SardineFish](https://github.com/SardineFish/raindrop-fx/tree/master)
 
 Background image: (https://i.imgur.com/YwQ85yC.jpeg)
 
 
 
-retrieves content from my [blog website](https://ankitmeena007.github.io/)
+Retrieves content from my [blog website](https://ankitmeena007.github.io/)
